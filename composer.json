@@ -35,11 +35,6 @@
             "canonical": false
         },
         {
-            "description": "PhpComposer",
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        },
-        {
             "description": "TencentCloud",
             "type": "composer",
             "url": "https://mirrors.tencent.com/composer/"
